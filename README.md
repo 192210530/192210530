@@ -35,8 +35,8 @@
 ---
 
 ## 📫 Contact Me
-- 📧 Email: your-email@example.com  
-- 💼 LinkedIn: (add link)
+- 📧 Email: asriveda@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/sriveda-avanigadda/
 
 ---
 
